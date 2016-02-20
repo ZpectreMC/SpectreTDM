@@ -65,8 +65,8 @@ public class PlayerManager {
 	}
 	
 	public Kit getKit(){
-		//if(kit.get
-			//return new LightAssault();
+		if(kit == null)
+			kit = new LightAssault();
 		return kit;
 	}
 	
