@@ -1,0 +1,5 @@
+name: SpectreTDM
+main: com.gmail.zpectremc.java.spectretdm.SpectreTDM
+version: pen
+commands:
+  stdm:
